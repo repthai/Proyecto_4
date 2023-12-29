@@ -1,4 +1,3 @@
-#Lista de todas las librerias que se van a ocupar
 pandas
 plotly_express
 streamlit
